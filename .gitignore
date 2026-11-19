@@ -39,3 +39,5 @@ build/
 .DS_Storelogs/
 reports/
 .idea/
+.DS_Store
+logs/
